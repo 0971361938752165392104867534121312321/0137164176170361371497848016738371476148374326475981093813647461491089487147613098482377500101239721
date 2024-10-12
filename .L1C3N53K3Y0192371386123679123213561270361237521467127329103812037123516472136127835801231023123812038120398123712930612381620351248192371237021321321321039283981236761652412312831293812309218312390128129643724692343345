@@ -1,7 +1,22 @@
 [
-    {
-      "name": "dokmai store",
-      "LicenseKey": "aihiya",
-      "expireDate": "2077-01-01T00:00:00",
-    }
-  ]
+  {
+    "licenseKey": "aihiya",
+    "expireDate": "2025-12-31"
+  },
+  {
+    "licenseKey": "key456",
+    "expireDate": "2025-01-15"
+  },
+  {
+    "licenseKey": "key789",
+    "expireDate": "2024-11-30"
+  },
+  {
+    "licenseKey": "key101",
+    "expireDate": "2024-10-01"
+  },
+  {
+    "licenseKey": "key102",
+    "expireDate": "2025-05-20"
+  }
+]
