@@ -1,8 +1,5 @@
 [
-  {
-    "licenseKey": "005611041DICKi0110672101",
-    "expireDate": "2025-6-31"
-  },
+
   {
     "licenseKey": "010324511GAYFul0104924026730",
     "expireDate": "2025-6-30"
@@ -16,7 +13,47 @@
     "expireDate": "2025-6-30"
   },
   {
-    "licenseKey": "ERDEPE",
+    "licenseKey": "ERDEPEx001",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "ERDEPEx002",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "ERDEPEx003",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "ERDEPEx004",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "ERDEPEx005",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "ERDEPEx006",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "ERDEPEx007",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "ERDEPEx008",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "ERDEPEx009",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "ERDEPEx010",
+    "expireDate": "2025-6-30"
+  },
+  {
+    "licenseKey": "NongWaiiPCx001",
     "expireDate": "2025-6-30"
   }
 ]
