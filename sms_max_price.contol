@@ -1,0 +1,10 @@
+[
+  {
+    "sms_provider": "smshub",
+    "max_price": "6"
+  },
+  {
+    "sms_provider": "5sim",
+    "max_price": "80"
+  }
+]
